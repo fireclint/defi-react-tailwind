@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+ ![REACT WEBSITE WITH TAILWIND](https://user-images.githubusercontent.com/65420004/159359722-8228596b-733d-4e5f-be1d-b6a0212d43c6.jpg)
+
+
+#Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
